@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-=======
-This is santosh branch
-
-sdfsdfsdfsadfsadfasdf
->>>>>>> 162c49e0e9b3525b3a80861d68e399397971312d
