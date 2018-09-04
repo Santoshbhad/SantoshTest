@@ -1,1 +1,20 @@
 Testing is good is 
+
+In crxde
+cq:Dailog is touch ui
+dialog : is for clissic ui
+
+slig resource Type is used to define type of the control on the touch ui dialog
+
+granite/ui/components/foundation/container	
+Defines a container for the dialog
+granite/ui/components/foundation/layouts/tabs	
+Defines a tab that is used in the dialog
+granite/ui/components/foundation/section	
+Defines a section within a tab. 
+granite/ui/components/foundation/layouts/fixedcolumns	
+Defines fixed columns. 
+granite/ui/components/foundation/form/textfield	
+Defines a text field that lets authors enter data.
+granite/ui/components/foundation/form/textarea	
+Defines a text area field that lets author more data than a text field. 
